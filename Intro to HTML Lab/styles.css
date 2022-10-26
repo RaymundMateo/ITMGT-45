@@ -1,0 +1,41 @@
+h1 {
+    color: "black";
+    text-align: "center";
+    font-familyy: "Open Sans";
+}
+
+body {
+    background-color: #a52a2a;
+    color: white;
+}
+
+.americano {
+    width: 200;
+    height: 300;
+}
+
+.brewedcoffee {
+    width: 200;
+    height: 150;
+}
+
+.cappuccino {
+    width: 200;
+    height: 150;
+}
+
+.dalgona {
+    width: 200;
+    height: 250;
+}
+
+.espresso {
+    width: 200;
+    height: 200;
+}
+
+.frappuccino {
+    width: 200;
+    height: 300;
+}
+
